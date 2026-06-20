@@ -295,6 +295,7 @@ header{
 .palette div:nth-child(2){background:#efc3b5;}
 .palette div:nth-child(3){background:#f6dc94;}
 .palette div:nth-child(4){background:#12ceb8;}
+.palette div:nth-child(4){background:#12cef8;}
 
 .roller{
     position:absolute;
